@@ -3,4 +3,5 @@ Change from my development environment
 
 This was edited on the github website
 
-merge error
+This should cause a merge error
+Hello
